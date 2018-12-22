@@ -1,0 +1,23 @@
+commit e0e27f118c792165687266d9420a38020f0c1361
+Author: rosafria <carolina.fraile@gmail.com>
+Date:   Sat Dec 22 17:21:59 2018 +0100
+
+    added .gitignore & modified rosafria.txt
+
+commit 2946ebf91c490e27c9917f5819b495d86c244ab3
+Author: rosafria <carolina.fraile@gmail.com>
+Date:   Fri Dec 21 19:40:44 2018 +0100
+
+    adding patinadora.txt & revuelo.txt
+
+commit 2232ce96decb3bf75aecd96026e4657d63b6373a
+Author: rosafria <carolina.fraile@gmail.com>
+Date:   Fri Dec 21 19:33:39 2018 +0100
+
+    adding line to rosafria.txt
+
+commit ce0fdb92f8b61658b1997b6d97cb73a2d18da48e
+Author: rosafria <carolina.fraile@gmail.com>
+Date:   Fri Dec 21 19:25:55 2018 +0100
+
+    adding rosafria.txt
