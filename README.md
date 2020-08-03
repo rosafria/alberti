@@ -1,8 +1,8 @@
-# Carolina Fraile
+# Carol Fraile alias rosafria, patinadora de la luna
 
 ### Lugar
 
-Vivo en Barcelona, Cataluña, España, Europa.
+Vivo en Barcelona, Cataluña, España, Europa, La Tierra.
 
 ### Aficiones
 
